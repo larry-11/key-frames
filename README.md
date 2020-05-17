@@ -5,7 +5,7 @@
 
 The dataset we used was published by USTC, a Sign Language Dataset.
 
-link:[](http://home.ustc.edu.cn/~pjh/openresources/slr/index.html)
+[link](http://home.ustc.edu.cn/~pjh/openresources/slr/index.html)
 
 # Requirement
 
@@ -25,4 +25,16 @@ python test.py
 
 # Result
 
-shown in img/0.avi
+## OpticalFlow:
+
+![](https://github.com/larry-11/key-frames/blob/master/img/0.avi/OpticalFlow.png)
+
+## KeyFrame:
+
+![](https://github.com/larry-11/key-frames/blob/master/img/0.avi/26.jpg)
+
+![](https://github.com/larry-11/key-frames/blob/master/img/0.avi/50.jpg)
+
+![](https://github.com/larry-11/key-frames/blob/master/img/0.avi/67.jpg)
+
+Shown in img/0.avi
